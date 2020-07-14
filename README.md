@@ -2,7 +2,8 @@
 All the maths concepts for Competitive Programming
 
  Concepts:
-    (1) Primality TesT
+    
+    (1) Primality Test
     
     (2) Sieve of Eratosthenes
     
