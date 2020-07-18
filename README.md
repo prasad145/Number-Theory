@@ -10,3 +10,6 @@ All the maths concepts for Competitive Programming
     (3) Prime Factorization
     
     (4) Binary Exponentiation
+    
+    (5) Matrix Exponentiation
+    
